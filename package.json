@@ -1,0 +1,24 @@
+{
+  "name": "git-from-scratch-v.0.0.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyhasan08/Git-From-Scratch-V.0.0.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joyhasan08/Git-From-Scratch-V.0.0.1/issues"
+  },
+  "homepage": "https://github.com/joyhasan08/Git-From-Scratch-V.0.0.1#readme"
+}
