@@ -1,4 +1,4 @@
-// Jit Cli v0.0.1
+// Jitv0.0.1
 
 const fs = require("fs");
 
